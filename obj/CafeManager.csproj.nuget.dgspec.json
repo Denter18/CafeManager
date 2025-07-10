@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Денис\\Downloads\\CafeManager_VisualStudioProject\\CafeManager\\CafeManager.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Денис\\Downloads\\CafeManager_VisualStudioProject\\CafeManager\\CafeManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Денис\\Downloads\\CafeManager_VisualStudioProject\\CafeManager\\CafeManager.csproj",
+        "projectName": "CafeManager",
+        "projectPath": "C:\\Users\\Денис\\Downloads\\CafeManager_VisualStudioProject\\CafeManager\\CafeManager.csproj",
+        "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Денис\\Downloads\\CafeManager_VisualStudioProject\\CafeManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.116, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

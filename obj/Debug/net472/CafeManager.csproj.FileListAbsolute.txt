@@ -1,0 +1,13 @@
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\bin\Debug\net472\CafeManager.exe.config
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\bin\Debug\net472\CafeManager.exe
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\bin\Debug\net472\CafeManager.pdb
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\bin\Debug\net472\System.Data.SQLite.dll
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeManager.csproj.AssemblyReference.cache
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeManager.AssemblyInfoInputs.cache
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeManager.AssemblyInfo.cs
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeManager.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeMana.6A690E32.Up2Date
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeManager.exe
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeManager.pdb
+C:\Users\Денис\Downloads\CafeManager_VisualStudioProject\CafeManager\obj\Debug\net472\CafeManager.exe.config

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0AYxDSGOwhY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Денис\\Downloads\\CafeManager_VisualStudioProject\\CafeManager\\CafeManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.116\\stub.system.data.sqlite.core.netframework.1.0.116.nupkg.sha512",
+    "C:\\Users\\Денис\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}
